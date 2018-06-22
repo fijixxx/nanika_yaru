@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f24824d1-759c-4d6b-bb8f-9b2a0038e9a8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/henkan.rb" beforeDir="false" afterPath="$PROJECT_DIR$/henkan.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,23 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="13" selection-start-column="13" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="henkan.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="henkan.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/henkan.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            <state relative-caret-position="837">
+              <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -114,8 +100,8 @@
         <option value="$PROJECT_DIR$/n_six_chars.rb" />
         <option value="$PROJECT_DIR$/six_chars.rb" />
         <option value="$PROJECT_DIR$/select_uud.rb" />
-        <option value="$PROJECT_DIR$/henkan.rb" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/henkan.rb" />
       </list>
     </option>
   </component>
@@ -257,12 +243,12 @@
       <workItem from="1527771366476" duration="91000" />
       <workItem from="1528079865606" duration="1225000" />
       <workItem from="1528977673886" duration="1213000" />
-      <workItem from="1529645575816" duration="2086000" />
+      <workItem from="1529645575816" duration="4334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98327000" />
+    <option name="totallyTimeSpent" value="100575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -498,10 +484,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/henkan.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="16">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -512,13 +501,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="13" selection-start-column="13" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/henkan.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
         </state>
       </provider>
     </entry>
